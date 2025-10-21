@@ -3,6 +3,7 @@ all in one windows defensive security tool.
 
 # MADE FOR WINDOWS ONLY
 functionality:
+
 Collect detailed system information (OS, version, architecture, hostname, user)
 
 Capture full systeminfo output
